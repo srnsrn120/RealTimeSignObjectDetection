@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Collected_image</folder>
+	<filename>Collected_image_hello +ec6c7d03-704b-11ec-a40b-8c1645ce8618 +.jpg</filename>
+	<path>E:\D E E E P	 L E A R N I N G\own project\signdetection\RealTimeObjectDetection\Tensorflow\workspace\images\Collected_image\Collected_image_hello +ec6c7d03-704b-11ec-a40b-8c1645ce8618 +.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>137</ymin>
+			<xmax>335</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

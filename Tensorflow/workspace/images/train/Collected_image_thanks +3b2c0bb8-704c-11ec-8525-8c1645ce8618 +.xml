@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Collected_image</folder>
+	<filename>Collected_image_thanks +3b2c0bb8-704c-11ec-8525-8c1645ce8618 +.jpg</filename>
+	<path>E:\D E E E P	 L E A R N I N G\own project\signdetection\RealTimeObjectDetection\Tensorflow\workspace\images\Collected_image\Collected_image_thanks +3b2c0bb8-704c-11ec-8525-8c1645ce8618 +.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>214</ymin>
+			<xmax>578</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>
